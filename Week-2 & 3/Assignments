@@ -1,1 +1,30 @@
+The Machine Learning & Deep Learning Show
+Assignment 02 & 03 
+Submission Date: 4th June 2021
+Name: Sriniketh J			Participant ID:22
 
+Task 1 (25 Marks) : Consider a multiple regression data (Which has more than one input variable) and implement the same.
+P.S.: Use the linear regression code. Only code for defining X will change.
+
+Paste Link for the dataset: dataset for multivariate regression 
+Paste Github/Colab link for the code: code for multiple regression
+
+
+
+Task 2 (25 Marks) : Consider any classification data from the internet and implement various classification algorithms.
+
+Paste Link for the dataset: dataset for classification
+
+Paste Github/Colab link for the code: code for classification
+
+Task 3 (25 Marks) : Consider any clustering data from the internet and implement various clustering algorithm.
+
+Paste Link for the dataset: datset for clustering
+Paste Github/Colab link for the code: code for clustering
+
+
+
+Task 4 (25 Marks): For linear regression data used in assignment 01, now implement a neural network. Use various configurations of neural networks. Change parameters to see changes in accuracy. 
+
+Paste Link for the dataset: available in a module in python
+Paste Github/Colab link for the code: code for neural networks
